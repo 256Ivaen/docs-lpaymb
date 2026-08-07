@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-juafvt.originmovement.co.nz/sitemap.xml
